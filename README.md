@@ -1,2 +1,2 @@
 # recipe-app
-Web based Recipe App
+Web based Recipe App made as part of a group school project
